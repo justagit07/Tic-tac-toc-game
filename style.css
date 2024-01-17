@@ -60,3 +60,12 @@ font-size: 8vmin;
     background-color: #a3b18a;
 
 }
+
+
+@media (max-width:699px)
+{
+header{
+
+    left:100px;
+}
+}
